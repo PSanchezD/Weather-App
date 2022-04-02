@@ -1,0 +1,28 @@
+.weather-p{
+    font-size: 50px;
+
+}
+.weather{
+    display: grid;
+    justify-content: center;
+}
+.nav{
+    display: grid;
+    justify-content: center;
+    background: linear-gradient(40deg,rgb(60, 164, 233),rgb(253, 140, 158));
+    color: black;
+    height: 200px;
+    
+}
+.btn{
+    width: 200px;
+    height: 50px;
+    border: none;
+    background:linear-gradient(40deg,rgb(60, 164, 233),rgb(253, 140, 158));
+    color: black;
+    font-size: large;
+}
+
+.nav-h1{
+    font-size: 100px;
+}
